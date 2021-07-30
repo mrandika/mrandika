@@ -39,7 +39,7 @@ Get to know me more at [My portofolio](https://mrandika.github.io)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Stats
+## 📊 Stats
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&username=mrandika&theme=algolia)
 
