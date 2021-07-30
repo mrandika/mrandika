@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hellomrandika)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mrandika/)
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 Hi! I'm Andika, a junior web and mobile software developer and undergraduate Informatics student at Telkom University School of Computing from West Java, Indonesia. Besides coding, I'm also a self-proclaimed UI Designer specializes in user application interaction. My mission is to bring user-focused design into a application.
 
@@ -18,7 +18,7 @@ Get to know me more at [My portofolio](https://mrandika.github.io)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Addicted to coding**
 
-### 🛠 Language and Technologies
+## 🛠 Language and Technologies
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
