@@ -9,14 +9,14 @@
 
 ## 👨🏻‍💻 About Me
 
-Hi! I'm Andika, a junior web and mobile software developer and undergraduate Informatics student at Telkom University School of Computing from West Java, Indonesia. Besides coding, I'm also a self-proclaimed UI Designer specializes in user application interaction. My mission is to bring user-focused design into a application.
+Hi! I'm Andika, a junior web developer, mobile software developer and undergraduate Informatics student at Telkom University School of Computing from West Java, Indonesia. Besides coding, I'm also a self-proclaimed UI Designer specializes in user application interaction. My mission is to bring user-focused design into a robust, and beautiful application.
 
 Get to know me more at [My portofolio](https://mrandika.github.io)
 
 - 🌱 I’m currently learning **iOS Development with SwiftUI**
-- 📫 How to reach me: **You can contact my [Linkedin](https://www.linkedin.com/in/mrandika/)**
+- 📫 How to reach me: **You can contact my [LinkedIn](https://www.linkedin.com/in/mrandika/)**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **Addicted to coding**
+- ⚡ Fun fact: **I get headache while coding, so does while I'm not. 🤷🏻‍♂️**
 
 ## 🛠 Language and Technologies
 
